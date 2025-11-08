@@ -1,0 +1,1 @@
+So far in this course, I have learned the basics of Git and GitHub, including cloning repositories, creating files, and making commits. I also understand how to manage branches and collaborate using pull requests.
